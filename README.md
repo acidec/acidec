@@ -1,19 +1,35 @@
 # ヾ(゜∀゜)ノ♪
-### => I'm acidec
+## I'm acidec
 
-### => Email: xkicdt@163.com
+### Email: xkicdt@163.com (May not be able to reply in time)
 
-### => Now learning Rust language
+### Using programming language: Rust/Ruby/C++
+
+***
+
+### Universal communication method
+
+* Email: xkicdt@163.com
+* Twitter: @zlicdt
 
 ***
 
-### => 这里是acidec
+### 这里是acidec
 
-### => Email: xkicdt@163.com
+### Email: xkicdt@163.com（也许不能及时回复）
 
-### => 现在在学Rust
+### 使用编程语言：Rust/Ruby/C++
 
 ***
+
+### 中国大陆通信用方式
+
+* Email: xkicdt@163.com
+* QQ：2449890005
+* bilibili：[zlicdt](https://space.bilibili.com/356035165)
+
+***
+### 
 
 然后
 
