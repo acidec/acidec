@@ -3,7 +3,7 @@
 
 ### Email: xkicdt@163.com (May not be able to reply in time)
 
-### Using programming language: Rust/Ruby/C++
+### Using programming language: Rust/Ruby/C++/Go
 
 ***
 
@@ -18,7 +18,7 @@
 
 ### Email: xkicdt@163.com（也许不能及时回复）
 
-### 使用编程语言：Rust/Ruby/C++
+### 使用编程语言：Rust/Ruby/C++/Go
 
 ***
 
