@@ -10,7 +10,7 @@
 ### Universal communication method
 
 * Email: xkicdt@163.com
-* Twitter: @zlicdt
+* Twitter: [@zlicdt](https://twitter.com/zlicdt)
 
 ***
 
