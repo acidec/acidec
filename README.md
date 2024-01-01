@@ -1,4 +1,5 @@
 # ヾ(゜∀゜)ノ♪
+[![Github](https://img.shields.io/github/followers/acidec?label=Follow&style=social)](https://github.com/acidec)
 ## 这是什么？
 
 * Email: xkicdt1@gmail.com (可能不能及时回复)
@@ -11,4 +12,5 @@
 * Clevo 藍天電腦 公版模具
 
 ## CARD!
-[![Github Data](https://github-readme-stats.vercel.app/api?username=acidec)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acidec&hide=html)
+![acidec's github stats](https://github-readme-stats.vercel.app/api?username=acidec&show_icons=true&count_private=true&line_height=40)
