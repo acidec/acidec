@@ -1,9 +1,5 @@
 # ヾ(゜∀゜)ノ♪
-## I'm acidec
+## 这是什么？
 
-### Email: xkicdt1@gmail.com (May not be able to reply in time)
-
-### Using programming language: Rust/Ruby/C++/Go
-
-***
-
+* Email: xkicdt1@gmail.com (可能不能及时回复)
+* Telegram: [@zlicdt](https://t.me/zlicdt)
